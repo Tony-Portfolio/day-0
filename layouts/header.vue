@@ -19,6 +19,9 @@
                 <li>
                     <NuxtLink to="/product/list">Produk</NuxtLink>
                 </li>
+                <li>
+                    <NuxtLink to="/tugas/day-10">Tugas</NuxtLink>
+                </li>
                 <li><a href="https://codepen.io/Raka_ramadhan" target="_blank"><i class="fa-brands fa-codepen"></i>
                         Codepen</a></li>
             </ul>
@@ -50,6 +53,10 @@
                 <hr class="border-1 border-black block w-full">
                 <li class="block w-full">
                     <NuxtLink to="/product/list" class="w-full block p-2">Produk</NuxtLink>
+                </li>
+                <hr class="border-1 border-black block w-full">
+                <li class="block w-full">
+                    <NuxtLink to="/tugas/day-10" class="w-full block p-2">Tugas</NuxtLink>
                 </li>
                 <hr class="border-1 border-black block w-full">
             </div>
